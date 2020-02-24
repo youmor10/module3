@@ -61,7 +61,7 @@ p {
   
   font-size: 125%;
 }
-@media (min-width: 992px){
+@media (min-width: 768px){
   ul{
     display: none;
   }
